@@ -51,3 +51,7 @@ separação de camadas
 testes de unidade com Mockito
 tratamento de exceções
 documentação com Swagger
+
+## 📄 License
+This project is licensed under the MIT License.
+
